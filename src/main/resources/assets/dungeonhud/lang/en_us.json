@@ -1,0 +1,8 @@
+{
+  "key.dungeonhud.heal": "Select healing item",
+  "key.categories.dungeonhud": "Dungeon HUD",
+  "hud.dungeonhud.levelup": "LEVEL UP!",
+  "hud.dungeonhud.day": "Day %s",
+  "hud.dungeonhud.heal.none": "No healing items in your inventory",
+  "hud.dungeonhud.heal.hotbar": "Move the healing item to your hotbar"
+}

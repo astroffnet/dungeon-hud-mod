@@ -1,0 +1,8 @@
+{
+  "key.dungeonhud.heal": "Выбрать лечение",
+  "key.categories.dungeonhud": "Dungeon HUD",
+  "hud.dungeonhud.levelup": "НОВЫЙ УРОВЕНЬ!",
+  "hud.dungeonhud.day": "День %s",
+  "hud.dungeonhud.heal.none": "В инвентаре нет лечения",
+  "hud.dungeonhud.heal.hotbar": "Переложите лечение в хотбар"
+}
